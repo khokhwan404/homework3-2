@@ -1,0 +1,15 @@
+/Users/khim/Desktop/homework3-2/bin/Debug/net6.0/homework3-2
+/Users/khim/Desktop/homework3-2/bin/Debug/net6.0/homework3-2.deps.json
+/Users/khim/Desktop/homework3-2/bin/Debug/net6.0/homework3-2.runtimeconfig.json
+/Users/khim/Desktop/homework3-2/bin/Debug/net6.0/homework3-2.dll
+/Users/khim/Desktop/homework3-2/bin/Debug/net6.0/homework3-2.pdb
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/homework3-2.csproj.AssemblyReference.cache
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/homework3-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/homework3-2.AssemblyInfoInputs.cache
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/homework3-2.AssemblyInfo.cs
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/homework3-2.csproj.CoreCompileInputs.cache
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/homework3-2.dll
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/refint/homework3-2.dll
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/homework3-2.pdb
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/homework3-2.genruntimeconfig.cache
+/Users/khim/Desktop/homework3-2/obj/Debug/net6.0/ref/homework3-2.dll
